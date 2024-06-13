@@ -11,6 +11,7 @@
 :root {
     --primary: hsl(0, 0%, 95%);
     --secondary: hsla(0, 0%, 100%, 0.75);
+    font-family: Sans-Serif;
 }
 
 a {
